@@ -16,7 +16,7 @@
 I am a 4 th year Bsc Data Science undergraduate at Srilanka Technological Campus. I've always been interested in data and associated engineering concepts. Working in a real industrial environment encourages me to discover and understand new concepts.I'm always open to learn new things in order to gain and expand my skills in the domains of Artificial Intelligence Ml & NLP
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Trophies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushikaattanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="madhushikaattanayaka" /> </p>
 
