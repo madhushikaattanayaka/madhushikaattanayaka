@@ -28,3 +28,4 @@ I am a 4 th year Bsc Data Science undergraduate at Srilanka Technological Campus
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 </p>
 
+[![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
