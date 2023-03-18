@@ -1,10 +1,5 @@
 ### Hi I'm Madhushika Attanayake 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
 
 - 🔭 I’m currently studying at Srilanka Technological Campus
 - 🌱 I’m currently learning Data Science in my Fourth Year
