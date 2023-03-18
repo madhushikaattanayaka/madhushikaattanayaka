@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi I'm Madhushika Attanayake 👋
 
-<!--
-**madhushikaattanayaka/madhushikaattanayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studying at Srilanka Technological Campus
 - 🌱 I’m currently learning Data Science in my Fourth Year
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/madhushika-attanayake-02862a1a4/
 - 😄 Pronouns: Miss
 - ⚡ Fun fact: Traveller
--->
+
