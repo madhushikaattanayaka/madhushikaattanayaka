@@ -1,6 +1,7 @@
 ### Hi I'm Madhushika Attanayake 👋
 
-
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+                                                                                                               
 - 🔭 I’m currently studying at Srilanka Technological Campus
 - 🎓 I’m currently learning Data Science in my Fourth Year
 - 👯 I’m looking to collaborate on AI/ML related projects
@@ -28,4 +29,3 @@ I am a 4 th year Bsc Data Science undergraduate at Srilanka Technological Campus
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 </p>
 
-[![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
